@@ -1,0 +1,3 @@
+Decimal a Hexadecimal
+15
+Al ser 15 y el codigo hexadecimal entra dentro de los limites que entra esta codificacion 15=F

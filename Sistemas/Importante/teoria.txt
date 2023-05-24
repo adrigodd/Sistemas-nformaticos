@@ -1,0 +1,7 @@
+binaria-> decimal 1 bit por cifra->0 o 1 
+octal-> 3 bits por cifra-> 0 o 7
+Hexadecimal-> 4 bit por cifra-> 0-F Por lo tanto al ser hexadecimal son 16 posibilidades por tanto 0-15
+Conversion:
+Decimal a otra potencia-> Se divide por la potencia y se van almacenando los restos de los decimales
+Ordenamos desde el ultimo dividendo hasta el primer resto
+Otra potencia a decimal-> Se multiplica cada digito por la base de la potencia elevado a su posicion 

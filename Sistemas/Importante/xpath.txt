@@ -1,0 +1,8 @@
+numero de ciudades:count(//comunidad)=19
+De qué pais son los datos?:string(//pais[1]/@nombre) ESPAÑA
+Cuantas mujeres hay en Andalucia?//comunidad[@nombre="Andalucía"]/mujeres
+¿Cuantos hombres y mujeres viven en Cataluña?sum(//comunidad[@nombre="Cataluña"]/mujeres)+sum(//comunidad[@nombre="Cataluña"]/hombres)
+Qué comunidad es la antepenúltima?//comunidad[last()-2]
+Nombre de la comunidad junto con su población con más de 3 millones de personas //comunidad[@nombre=poblacion>3000000]/@nombre|//comunidad[@nombre=poblacion>3000000]/poblacion
+Dos primeras letras de la tercera comunidad substring(//comunidad[(position() = 3)]/@nombre,1,2)
+Porcentaje de hombres de Andalucía respecto a su población total. sum(//comunidad[@nombre="Andalucía"]/hombres)div sum(//comunidad[@nombre="Andalucía"]/poblacion)*100
