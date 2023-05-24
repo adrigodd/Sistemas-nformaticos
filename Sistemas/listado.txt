@@ -1,0 +1,24 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: AC40-712F
+
+ Directorio de C:\Users\alvar\OneDrive\Escritorio\tema 20\medac\sistemas
+
+08/05/2023  20:11    <DIR>          .
+08/05/2023  20:11    <DIR>          ..
+25/10/2022  05:48             3.122 calculadora.bat
+25/10/2022  05:48             3.122 calculadoramedac.txt
+18/10/2022  05:48               520 ejercicio medac.bat
+18/10/2022  05:10               155 ejercicio1.bat
+18/10/2022  05:13               184 ejercicio2.bat
+26/10/2022  09:23               482 ejerciciomedac1.bat
+26/10/2022  09:25               482 ejerciciomedac1.txt
+25/10/2022  05:40               426 ejerciciomedac2.bat
+19/10/2022  09:31               227 ejerciciomedac3.bat
+20/10/2022  07:52               716 ejerciciomedac4.bat
+08/05/2023  20:26                 0 listado.txt
+19/10/2022  09:26                 0 Nuevo documento de texto (2).txt
+21/11/2022  21:58                40 null
+08/05/2023  20:11    <DIR>          powershell
+18/10/2022  05:01               106 prueba.bat
+              14 archivos          9.582 bytes
+               3 dirs  31.682.244.608 bytes libres
